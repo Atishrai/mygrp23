@@ -1,0 +1,30 @@
+-Cloudfront is global content delivery                  
+network service that accelerates means
+ speed up delivery of website, webasset 
+or video content,It resolve the problem of latency
+
+-CLOUD WATCH IS A MONITERING SERVICE FOR RESOURCE AD APLICATION 
+FOR AWS 
+-CLOUDTRIAL IS A WEB SERVICE THAT RECORDS API ACTICITY
+ IN YOUR AWS
+
+Prajakta Velo, [11-11-2022 21:51]
+Route 53 WE CAN domain register ,
+ existing domain 
+transfer kar sakte hai, 
+AWS ke resourse pe traffic route kar sakte hai, 
+and resource ka health check bhi kar sakte hai
+
+EFS-SIMPLE,SEVERLESS, AND PAY ONLY FOR STAGE THAT WE USE
+COMMON DATA SOURCE FOR MULTIPLE EC2
+
+IAM IS A WEB SERVICE THAT HELPS YOU TO SECURELY ACESS
+ TO AWS RESOURCES
+
+S3 IS SERVICE BY AWS THAT PROVIED OBKECT STROGE THROUGT
+ A WEB SERVICE INTERFACE
+
+STAGES-PLAN-CODE-BLUID-TEST RELEASE-DEPLOY-OPERTION-MONI
+
+GIT CLONE CMD-TO TRANFER DATA FROM LOCAL REPO TO DVCS
+ 
